@@ -1,4 +1,4 @@
-# Proyek Klasifikasi Gambar 🐄🐈🐔 | 95% Accuracy
+# Multiple Class Image Classification 🐄🐈🐔 | 95% Accuracy
 
 ## Setup Environment - Anaconda
 ```
