@@ -20,6 +20,8 @@ pip install -r requirements.txt
 ```
 
 ## Run the inference in the inference.ipynb
-```
 Re-run the inference.ipynb notebook file. You can also copy a new image to folder "images for inference" and change the image path value in the inference.ipynb
+```
+# specify the image path to be predicted
+image_path = "YOUR IMAGE PATH\IMG.jpg"
 ```
