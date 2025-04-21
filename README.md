@@ -1,4 +1,4 @@
-# Dicoding Submission Belajar Pengembangan Machine Learning | Proyek Klasifikasi Gambar 🐄🐈🐔 | 95% Accuracy
+# Proyek Klasifikasi Gambar 🐄🐈🐔 | 95% Accuracy
 
 ## Setup Environment - Anaconda
 ```
