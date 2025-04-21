@@ -9,8 +9,8 @@ pip install -r requirements.txt
 
 ## Setup Environment - Shell/Terminal
 ```
-mkdir proyek_analisis_data
-cd proyek_analisis_data
+mkdir multi_class_image_classification
+cd multi_class_image_classification
 pipenv install
 pipenv shell
 pip install -r requirements.txt
