@@ -16,7 +16,7 @@ pipenv shell
 pip install -r requirements.txt
 ```
 
-## Run the notebook
+## Run the inference in the inference.ipynb
 ```
-Re-run the notebook.ipynb file, or copy the code in the inference cell and paste it in a new cell in a new notebook, then run it.
+Re-run the inference.ipynb notebook file. You can also copy a new image to folder "images for inference" and change the image path value in the inference.ipynb
 ```
