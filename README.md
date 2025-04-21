@@ -1,7 +1,7 @@
 # Multiple Class Image Classification 🐄🐈🐔 | 95% Accuracy
 
 ## About
-I trained a Mobile Net V2 for multiple class image classification. The images on the dataset is about animals. I also use the T4 x2 GPU from Kaggle to trained the model to make the training time faster. I also demonstrate how to perform callbacks during training, and export the model into TF-Lite, Tensorflow JS, and Saved Model. The accuracy on the train and test dataset is 95%.
+I trained a Mobile Net V2 for multiple class (10 classes) image classification. The images on the dataset is about animals. I also use the T4 x2 GPU from Kaggle to trained the model to make the training time faster. I also demonstrate how to perform callbacks during training, and export the model into TF-Lite, Tensorflow JS, and Saved Model. The accuracy on the train and test dataset is 95%.
 
 ## Setup Environment - Anaconda
 ```
